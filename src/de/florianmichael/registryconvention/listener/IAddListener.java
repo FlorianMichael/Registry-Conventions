@@ -22,8 +22,8 @@ public interface IAddListener<T> {
 
     /**
      * We call this if we add an element to the list
-     * @param T Instance of the element
+     * @param t Instance of the element
      */
-    void add(T T);
+    void add(T t);
 
 }

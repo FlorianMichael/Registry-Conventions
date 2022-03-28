@@ -22,7 +22,7 @@ public interface IRemoveListener<T> {
 
     /**
      * We call this if we remove an element to the list
-     * @param T Instance of the element
+     * @param t Instance of the element
      */
-    void remove(T T);
+    void remove(T t);
 }
