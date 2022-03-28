@@ -1,6 +1,6 @@
 # Registry Convention Pattern
 
-#Usage: 
+Usage
 
 ```java
 package de.florianmichael;
